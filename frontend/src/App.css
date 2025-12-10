@@ -357,7 +357,8 @@ button:hover {
   position: absolute;
   top: 10px;    /* 10px from the top edge of the header */
   right: 10px;  /* 10px from the right edge of the header */
-
+  height: 30px;
+  width: 100px;
   /* Visual Styling */
   padding: 0.5rem 1rem;
   background-color: #dc3545; /* Red color for logout */
